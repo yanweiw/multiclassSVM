@@ -4,7 +4,7 @@ This repo is a matlab implementation of multi-class Support Vector Machine (SVM)
 
 ### Algorithm Specification
 
-Run [MultiClassSVM.m]() will test 1-1 voting, 1-rest voting, and Directed Acyclic Graph (DAG) scheme respectively on MNIST data. More on DAG SVM can be found in the paper [Large Margin DAGs for Multiclass Classification](https://pdfs.semanticscholar.org/9c59/b8c3ad59e3466340eac29d1b322dc71546ad.pdf).
+Run [MultiClassSVM.m](https://github.com/yanweiw/multiclassSVM/blob/master/MultiClassSVM.m) will test 1-1 voting, 1-rest voting, and Directed Acyclic Graph (DAG) scheme respectively on MNIST data. More on DAG SVM can be found in the paper [Large Margin DAGs for Multiclass Classification](https://pdfs.semanticscholar.org/9c59/b8c3ad59e3466340eac29d1b322dc71546ad.pdf).
 
 ### Results
 
