@@ -12,7 +12,9 @@ I used polynomial kernel in all three cases, and the results are presented in co
 
 **SVM 1-1 voting (polynomial degree = 3), accuracy: 95.5%**
 
-![svm1](images/svm1.png)
+<!-- ![svm1](images/svm1.png) -->
+<img src="images/svm1.png" width="540" height="200" />
+
 
 **SVM 1-rest voting (polynomial degree = 4), accuracy: 95.9%**
 
